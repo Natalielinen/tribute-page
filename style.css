@@ -16,7 +16,10 @@ p{
     text-align: center;
 }
 #image {
-    width:80%;
+    display: block;
+    max-width: 1024px;
+    height: auto;
+    margin: 0 auto;
 }
 #img-div{
     text-align: center;
